@@ -63,8 +63,8 @@ BEGIN
 			cst_create_date
 		FROM (
 			SELECT
-			*,
-			ROW_NUMBER() OVER (PARTITION BY cst_id ORDER BY cst_create_date DESC) AS flag_last
+				*,
+				ROW_NUMBER() OVER (PARTITION BY cst_id ORDER BY cst_create_date DESC) AS flag_last
 			FROM bronze.crm_cust_info
 			WHERE cst_id IS NOT NULL
 		) AS t 
