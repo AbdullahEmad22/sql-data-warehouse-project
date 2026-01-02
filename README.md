@@ -62,7 +62,7 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 ---
 
-## 📋 Project Planning
+## 🗺️ Project Roadmap
 
 ### 1️⃣ Requirements Analysis 
 - ✅ Analyze & Understand the Requirements
