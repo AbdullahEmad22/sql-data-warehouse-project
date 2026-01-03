@@ -124,7 +124,7 @@ sql-data-warehouse-project/              # Repository Root
 │   ├── data_catalog.md                  # Metadata: Field descriptions and data dictionary
 │   ├── data_flow_diagram.drawio         # Draw.io file for the data flow diagram
 │   ├── data_integration_model.drawio    # Draw.io file showing how tables are related
-│   ├── data_model.drawio                # Draw.io file for data models (star schema)
+│   ├── data_model.drawio                # Draw.io file for data model (star schema)
 │   └── naming_conventions.md            # Consistent naming guidelines for tables, columns, and files
 │
 ├── scripts/                             # SQL scripts for ETL and transformations
