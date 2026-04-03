@@ -1,4 +1,4 @@
-# Data Warehouse and Engineering Project
+# 🎯 Data Warehouse and Engineering Project
 
 Welcome to the **Data Warehouse and Engineering Project** repository! 🚀  
 This project demonstrates a comprehensive data warehousing solution, from architecting a scalable SQL Data Warehouse from scratch to enabling data-driven decision-making. Designed as a portfolio project, it highlights industry best practices in **Data Engineering, ETL processing and Data Modeling**.
